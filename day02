@@ -1,0 +1,8 @@
+express
+一、安装步骤
+cnpm init -y
+cnpm i express --D
+二、注意
+1、不能移动node_modules
+2、要删除，安装时cnpm i
+3、json mian只能写一个js

@@ -11,3 +11,5 @@ cmd 常见命令：
 二、注意
   a、Node.js没有根目录的概念，因为它根本没有任何的web容器
   b、在nodeJS中，url和物理文件夹是没有任何关系的
+三、nodemon（为了保证每次输出的文件改变，nodeJS每次都随着文件的改变而执行）
+  cnpm install nodemon -g

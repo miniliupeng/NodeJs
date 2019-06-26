@@ -1,0 +1,4 @@
+cnpm  init
+cnpm  i (express multer -D)
+nodemon
+浏览器打开表单并改网址为127.0.0.1:8080/demo.html
